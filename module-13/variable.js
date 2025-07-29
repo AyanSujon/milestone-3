@@ -6,6 +6,10 @@ Javascript keyword (var) and Variable Name (Anything related) and (=) Equel Sign
 
 3 Version of Variable: var, let, const
 
+
+// javaScript Keyword, Variable Name, Naming Convention 
+
+
 */
 var weight = 38;
 var price = 38;
@@ -17,7 +21,6 @@ var age;
 console.log(age);
 console.log(money);
 console.log(price);
-
 
 
 
