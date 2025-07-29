@@ -9,7 +9,7 @@
 // Variable
 // const amount = 200;
 
-// // condation 
+// // condation structure
 // if(amount > 100){
 
 // }
@@ -33,10 +33,13 @@ const numbers = [12, 98, 45, 63, 21];
 //     console.log(num);
 // }
 
-
+// for Loop 
 const fruits = ['orange', 'apple', 'banana', 'jackfruit', 'watermelon'];
 
 for(const fruit of fruits){
     console.log(fruit);
     console.log('i want to eat')
 }
+
+
+
