@@ -9,3 +9,4 @@ var fridge = 35000;
 fridge -= 1000;
 
 console.log(fridge);
+
