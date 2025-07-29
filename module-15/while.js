@@ -9,6 +9,10 @@
 
 // While Loop ======================================================
 const num = 0; 
-while (num < 5){
-    console.log('looping');
+while (num < 10){
+    console.log('looping', num);
+    num++;
+    // num = num + 3;
+    // num += 1;
 }
+
