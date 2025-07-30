@@ -34,12 +34,19 @@ const numbers = [12, 98, 45, 63, 21];
 // }
 
 // for Loop 
-const fruits = ['orange', 'apple', 'banana', 'jackfruit', 'watermelon'];
+const fruits = ['orange', 'apple', 'banana', 'jackfruit', 'watermelon']; //loop variable 
 
-for(const fruit of fruits){
-    console.log(fruit);
-    console.log('i want to eat')
+for(const fruit of fruits){ //loop condition 
+    console.log(fruit); //loop statement 
+    console.log('i want to eat') //loop variable change 
 }
+
+
+
+
+
+
+
 
 
 
