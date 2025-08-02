@@ -15,17 +15,25 @@
 // console.log(out1, out2);
 
 
+// const friends = ['balam', 'kalam', 'salam', 'gelam' ];
+// // friends.shift();
+// friends.unshift('gumailam');
+// console.log(friends);
+
+
+
+
+
 const friends = ['balam', 'kalam', 'salam', 'gelam' ];
-// friends.shift();
-friends.unshift('gumailam');
-console.log(friends);
+// check any Propaty in array by includes methode
+// console.log(friends.includes('kalam'));
 
 
-
-
-
-
- 
-
-
+// check any Propaty in array by if-else
+if(friends.includes('salam')){
+    console.log('party');
+}
+else{
+    console.log('no food. we are fisting');
+}
 
